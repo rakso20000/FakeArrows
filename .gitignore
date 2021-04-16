@@ -1,0 +1,5 @@
+/FakeArrows/.idea/
+/FakeArrows/bin/
+/FakeArrows/obj/
+
+*.user
